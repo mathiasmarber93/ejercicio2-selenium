@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "Suite1">
+    <test name = "group test">
+        <!-- we click testDoubleClick 1st-->
+        <!-- we click testRightClick 2nd-->
+        <!-- we open testDynamicClick 3rd-->
+        <classes>
+            <class name = "Ejercicio2" />
+        </classes>
+
+    </test>
+</suite>
